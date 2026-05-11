@@ -22,6 +22,10 @@
     {
       "tag": "v2.17.0",
       "softwareVersion": "2.17.0"
+    },
+    {
+      "tag": "v2.17.1",
+      "softwareVersion": "2.17.1"
     }
   ]
 }
