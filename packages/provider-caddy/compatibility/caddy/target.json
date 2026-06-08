@@ -22,6 +22,14 @@
     {
       "tag": "2.11.2",
       "softwareVersion": "2.11.2"
+    },
+    {
+      "tag": "2.11.3",
+      "softwareVersion": "2.11.3"
+    },
+    {
+      "tag": "2.11.4",
+      "softwareVersion": "2.11.4"
     }
   ]
 }
