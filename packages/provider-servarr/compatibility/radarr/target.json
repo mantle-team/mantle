@@ -26,6 +26,10 @@
     {
       "tag": "6.1.1",
       "softwareVersion": "6.1.1"
+    },
+    {
+      "tag": "6.2.1",
+      "softwareVersion": "6.2.1"
     }
   ]
 }
