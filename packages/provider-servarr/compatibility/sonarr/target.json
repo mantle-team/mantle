@@ -26,6 +26,14 @@
     {
       "tag": "4.0.17",
       "softwareVersion": "4.0.17"
+    },
+    {
+      "tag": "4.0.18",
+      "softwareVersion": "4.0.18"
+    },
+    {
+      "tag": "4.0.19",
+      "softwareVersion": "4.0.19"
     }
   ]
 }
