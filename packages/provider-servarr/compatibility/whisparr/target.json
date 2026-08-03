@@ -22,6 +22,18 @@
     {
       "tag": "v3-v3.3.3",
       "softwareVersion": "3.3.3"
+    },
+    {
+      "tag": "v3-v3.3.4",
+      "softwareVersion": "3.3.4"
+    },
+    {
+      "tag": "v3-v3.3.5",
+      "softwareVersion": "3.3.5"
+    },
+    {
+      "tag": "v3-v3.3.7",
+      "softwareVersion": "3.3.7"
     }
   ]
 }
